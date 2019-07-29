@@ -92,6 +92,7 @@ background-color: #112d4e;
   margin: 0 auto 50px auto;
   text-align: left;
   line-height: 2;
+  overflow: auto;
 }
 
 .skill-image1 {
@@ -104,6 +105,14 @@ background-color: #112d4e;
   width: 26%;
   float: right;
   margin-left: 30px;
+}
+
+.main-img {
+  width: 40%;
+}
+
+.profile-img {
+  width: 30%;
 }
 
 .contact-me {
